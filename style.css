@@ -6,3 +6,15 @@ body {
     align-items: center;
     min-height: 100vh;
 }
+
+.caixa-principal { 
+    background-color: var(--cor-fundo); 
+    width: 90%;
+    max-width: 600px;
+    text-align: center;
+    padding: 20px;    
+}
+h1 {
+    color: var(--cor-destaque);
+    
+}
